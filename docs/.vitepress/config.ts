@@ -28,6 +28,11 @@ function getGuideSidebar() {
                 {text: '数据类型', link: '/common-programming-concepts/data-types'},
                 {text: '函数', link: '/common-programming-concepts/functions'},
             ]
+        },{
+            text: '所有权',
+            children: [
+                {text: '所有权', link: '/ownership/'},
+            ]
         },
     ]
 }
