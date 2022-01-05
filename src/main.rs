@@ -1,3 +1,5 @@
+mod tutorial_game;
+
 fn main() {
-    println!("Hello, world!");
+    tutorial_game::start_game();
 }
