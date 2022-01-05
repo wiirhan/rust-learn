@@ -26,6 +26,7 @@ function getGuideSidebar() {
             children: [
                 {text: '变量和可变性', link: '/common-programming-concepts/variables-and-mutability'},
                 {text: '数据类型', link: '/common-programming-concepts/data-types'},
+                {text: '函数', link: '/common-programming-concepts/functions'},
             ]
         },
     ]
