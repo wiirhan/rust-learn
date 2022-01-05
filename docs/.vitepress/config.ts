@@ -21,6 +21,12 @@ function getGuideSidebar() {
                 {text: 'Getting Started', link: '/'},
                 {text: 'Tutorial Game', link: '/tutorial-game'},
             ]
+        },{
+            text: '通用编程概念',
+            children: [
+                {text: '变量和可变性', link: '/common-programming-concepts/variables-and-mutability'},
+                {text: '数据类型', link: '/common-programming-concepts/data-types'},
+            ]
         },
     ]
 }
