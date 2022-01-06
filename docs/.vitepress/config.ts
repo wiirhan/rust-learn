@@ -32,6 +32,7 @@ function getGuideSidebar() {
             text: '所有权',
             children: [
                 {text: '所有权', link: '/ownership/'},
+                {text: '引用与借用', link: '/ownership/references-and-borrowing'},
             ]
         },
     ]
