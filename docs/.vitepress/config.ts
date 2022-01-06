@@ -21,19 +21,24 @@ function getGuideSidebar() {
                 {text: 'Getting Started', link: '/'},
                 {text: 'Tutorial Game', link: '/tutorial-game'},
             ]
-        },{
+        }, {
             text: '通用编程概念',
             children: [
                 {text: '变量和可变性', link: '/common-programming-concepts/variables-and-mutability'},
                 {text: '数据类型', link: '/common-programming-concepts/data-types'},
                 {text: '函数', link: '/common-programming-concepts/functions'},
             ]
-        },{
+        }, {
             text: '所有权',
             children: [
                 {text: '所有权', link: '/ownership/'},
                 {text: '引用与借用', link: '/ownership/references-and-borrowing'},
                 {text: '切片Slice类型', link: '/ownership/slices'},
+            ]
+        }, {
+            text: '结构体',
+            children: [
+                {text: '定义结构体', link: '/structs/defining'},
             ]
         },
     ]
