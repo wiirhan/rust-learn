@@ -33,6 +33,7 @@ function getGuideSidebar() {
             children: [
                 {text: '所有权', link: '/ownership/'},
                 {text: '引用与借用', link: '/ownership/references-and-borrowing'},
+                {text: '切片Slice类型', link: '/ownership/slices'},
             ]
         },
     ]
